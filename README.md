@@ -124,7 +124,7 @@ $\color{gree}{\textsf{green text}}$
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=blue-green&hide=) -->
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=github_dark_dimmed&hide=) -->
 ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=ocean_dark&hide=)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncagle&layout=compact)](https://github.com/ncagle/Database-Guillotine)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncagle&layout=compact)](https://github.com/ncagle/Database-Guillotine) -->
 <!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ncagle&layout=compact)](https://github.com/ncagle/ncagle) -->
 
 
@@ -148,7 +148,7 @@ $\color{gree}{\textsf{green text}}$
 </a>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Godzilla-Geodatabase-Deconstructor-Xtreme-Pro&theme=tokyonight)](https://github.com/ncagle/Godzilla-Geodatabase-Deconstructor-Xtreme-Pro) -->
 
-<br><br><br>
+<br><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -187,19 +187,19 @@ $\color{gree}{\textsf{green text}}$
 <!-- ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) -->
 <!-- ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) -->
 
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+<!-- ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) -->
 
 
-### CONTACT ME
+<!-- ### CONTACT ME
 
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new&to=njwcagle@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href= "https://www.linkedin.com/in/yash16singh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href= "https://www.linkedin.com/in/yash16singh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
 
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="200" theme=tokyonight/>
