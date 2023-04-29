@@ -20,6 +20,37 @@ Here are some ideas to get you started:
 <p><img src="https://user-images.githubusercontent.com/22569954/235297834-b86c730f-c834-4ddc-9989-9d451d69b331.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" width=2% height=2%></p>
 
 
+![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=ocean_dark&hide=)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)<br>
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)<br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
+<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="200" theme=tokyonight/>
+
+
 <!--
 non breaking space:  &nbsp;
 en size space:       &ensp;
@@ -102,6 +133,7 @@ OPTIONS
 $\color{gree}{\textsf{green text}}$
 -->
 
+
 <!--
 ## About me
 
@@ -113,8 +145,6 @@ $\color{gree}{\textsf{green text}}$
 -->
 
 
-<br>
-
 <!-- Stats and Langs -->
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=prussian&hide=) -->
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=nord&hide=) -->
@@ -123,7 +153,7 @@ $\color{gree}{\textsf{green text}}$
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=github_dark&hide=) -->
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=blue-green&hide=) -->
 <!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=github_dark_dimmed&hide=) -->
-![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=ocean_dark&hide=)
+<!-- ![ncagle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncagle&count_private=true&show_icons=true&theme=ocean_dark&hide=) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncagle&layout=compact)](https://github.com/ncagle/Database-Guillotine) -->
 <!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ncagle&layout=compact)](https://github.com/ncagle/ncagle) -->
 
@@ -133,7 +163,9 @@ $\color{gree}{\textsf{green text}}$
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Finishing-Tool-Suite&theme=tokyonight)](https://github.com/ncagle/Finishing-Tool-Suite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=MGCP-Tools&theme=tokyonight)](https://github.com/ncagle/MGCP-Tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Tamapgotchi&theme=tokyonight)](https://github.com/ncagle/Tamapgotchi) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Godzilla-Geodatabase-Deconstructor-Xtreme-Pro&theme=tokyonight)](https://github.com/ncagle/Godzilla-Geodatabase-Deconstructor-Xtreme-Pro) -->
 
+<!--
 <a href="https://github.com/ncagle/Database-Guillotine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Database-Guillotine&theme=tokyonight" />
 </a>
@@ -146,11 +178,10 @@ $\color{gree}{\textsf{green text}}$
 <a href="https://github.com/ncagle/Tamapgotchi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Tamapgotchi&theme=tokyonight" />
 </a>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ncagle&repo=Godzilla-Geodatabase-Deconstructor-Xtreme-Pro&theme=tokyonight)](https://github.com/ncagle/Godzilla-Geodatabase-Deconstructor-Xtreme-Pro) -->
+-->
 
-<br><br>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -162,10 +193,10 @@ $\color{gree}{\textsf{green text}}$
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) -->
 <!-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) -->
 
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+<!-- ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -174,7 +205,8 @@ $\color{gree}{\textsf{green text}}$
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) -->
+
 <!-- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) -->
 <!-- ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white) -->
 
@@ -197,9 +229,8 @@ $\color{gree}{\textsf{green text}}$
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) -->
 
 
-<!-- ### CONTACT ME
-
+<!--
+### CONTACT ME
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new&to=njwcagle@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href= "https://www.linkedin.com/in/yash16singh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
-
-<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="200" theme=tokyonight/>
+<a href= "https://www.linkedin.com/in/yash16singh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+-->
