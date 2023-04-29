@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=900&color=39FF14&repeat=false&width=435&height=25&lines=guest%40ncagle-repo%3A~%24+man+developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=50&color=39FF14&multiline=true&repeat=true&width=650&height=500&lines=DEVELOPER&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;User+Info&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DEVELOPER;+;USER;&emsp;&emsp;ncagle%2C+njwcagle%2C+jaynay+--Geologist+%26+GIS+Developer;+;SYNOPSIS;&emsp;&emsp;email&emsp;&emsp;&ensp;njwcagle%40gmail.com;&emsp;&emsp;github&emsp;&emsp;github.com%2Fncagle;&emsp;&emsp;linkedin&emsp;linkedin.com%2Fin%2Fncagle;+;DESCRIPTION;&emsp;&emsp;Focused+on+applying+emerging+technologies+to+geological;&emsp;&emsp;problems.+Worked+with+Martian+landscapes%2C+hyperspectral;&emsp;&emsp;imaging%2C+geospatial+intelligence%2C+and+beekeeping.;+;SKILLS;&emsp;&emsp;%3Cplgeo%3E&emsp;+Planetary+Geology.;&emsp;&emsp;%3Ceobsv%3E&emsp;+Earth+Observation.;&emsp;&emsp;%3Crsen%3E&emsp;&emsp;Remote+Sensing.;&emsp;&emsp;%3Cfinfo%3E&emsp;+Information+Foraging.;&emsp;&emsp;%3Cgeoref%3E&emsp;Geomatics.;&emsp;&emsp;%3Cpgram%3E&emsp;+Photogrammetry.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=50&color=39FF14&multiline=true&repeat=true&width=650&height=500&lines=DEVELOPER&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;User+Info&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DEVELOPER;+;NAME;&emsp;&emsp;ncagle%2C+njwcagle%2C+jaynay+--Geologist+%26+GIS+Developer;+;SYNOPSIS;&emsp;&emsp;email&emsp;&emsp;&ensp;njwcagle%40gmail.com;&emsp;&emsp;github&emsp;&emsp;github.com%2Fncagle;&emsp;&emsp;linkedin&emsp;linkedin.com%2Fin%2Fncagle;+;DESCRIPTION;&emsp;&emsp;Focused+on+applying+emerging+technologies+to+geological;&emsp;&emsp;problems.+Worked+with+Martian+landscapes%2C+hyperspectral;&emsp;&emsp;imaging%2C+geospatial+intelligence%2C+and+beekeeping.;+;ARGUMENTS;&emsp;&emsp;%3Cplgeo%3E&emsp;+Planetary+Geology.;&emsp;&emsp;%3Ceobsv%3E&emsp;+Earth+Observation.;&emsp;&emsp;%3Crsen%3E&emsp;&emsp;Remote+Sensing.;&emsp;&emsp;%3Cfinfo%3E&emsp;+Information+Foraging.;&emsp;&emsp;%3Cgeoref%3E&emsp;Geomatics.;&emsp;&emsp;%3Cpgram%3E&emsp;+Photogrammetry.)](https://git.io/typing-svg)
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" width=2% height=2%>
+<!-- <p><img align="center" height="30" src="https://user-images.githubusercontent.com/84743905/174507937-c8637dd7-5a10-4c12-bf23-945c7872ace2.png"> TECHNOLOGIES</h3> -->
+<p><img src="https://user-images.githubusercontent.com/22569954/235297834-b86c730f-c834-4ddc-9989-9d451d69b331.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" width=2% height=2%></p>
 
 
 <!--
@@ -58,7 +59,7 @@ SKILLS;
 ┌──────────────────────────────────────────────────────────┐
 DEVELOPER                 User Info                DEVELOPER
 
-USER
+NAME
     ncagle, njwcagle, jaynay --Geologist & GIS Developer
 
 SYNOPSIS
@@ -71,7 +72,7 @@ DESCRIPTION
     problems. Worked with Martian landscapes, hyperspectral
     imaging, geospatial intelligence, and beekeeping.
 
-SKILLS
+ARGUMENTS
     <plgeo>   Planetary Geology.
     <eobsv>   Earth Observation.
     <rsen>    Remote Sensing.
@@ -79,7 +80,7 @@ SKILLS
     <georef>  Geomatics.
     <pgram>   Photogrammetry.
 
-LANGUAGES
+OPTIONS
     -py,  --Python
         -gpd, --GeoPandas
               Support for geographic data and geometric
