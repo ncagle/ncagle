@@ -4,7 +4,7 @@
 <!-- Dynamic Type -->
 <!-- (https://git.io/typing-svg) -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=500&pause=30&color=39FF14&multiline=true&repeat=true&width=435&height=25&lines=guest%40ncagle-repo%3A~%24+man+developer;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=500&pause=30&color=39FF14&multiline=true&repeat=true&width=650&height=362&lines=DEVELOPER&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;User+Info&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DEVELOPER;+;NAME;&emsp;&emsp;ncagle%2C+njwcagle%2C+jaynay+--Geologist+%26+GIS+Developer;+;DESCRIPTION;&emsp;&emsp;Focused+on+applying+emerging+technologies+to+geological;&emsp;&emsp;problems.+Worked+with+Martian+landscapes%2C+hyperspectral;&emsp;&emsp;imaging%2C+geospatial+intelligence%2C+and+beekeeping.;+;SKILLS;&emsp;&emsp;%3Cplgeo%3E&emsp;+Planetary+Geology.;&emsp;&emsp;%3Ceobsv%3E&emsp;+Earth+Observation.;&emsp;&emsp;%3Crsen%3E&emsp;&emsp;Remote+Sensing.;&emsp;&emsp;%3Cfinfo%3E&emsp;+Information+Foraging.;&emsp;&emsp;%3Cgeoref%3E&emsp;Geomatics.;&emsp;&emsp;%3Cpgram%3E&emsp;+Photogrammetry.;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=500&pause=30&color=39FF14&multiline=true&repeat=true&width=650&height=362&lines=DEVELOPER&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;User+Info&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DEVELOPER;+;NAME;&emsp;&emsp;Nat_Cagle%2C+ncagle%2C+jaynathias+--Geologist+%26+GIS+Developer;+;DESCRIPTION;&emsp;&emsp;Focused+on+applying+emerging+technologies+to+geological;&emsp;&emsp;problems.+Worked+with+Martian+landscapes%2C+hyperspectral;&emsp;&emsp;imaging%2C+geospatial+intelligence%2C+and+beekeeping.;+;SKILLS;&emsp;&emsp;%3Cplgeo%3E&emsp;+Planetary+Geology.;&emsp;&emsp;%3Ceobsv%3E&emsp;+Earth+Observation.;&emsp;&emsp;%3Crsen%3E&emsp;&emsp;Remote+Sensing.;&emsp;&emsp;%3Cfinfo%3E&emsp;+Information+Foraging.;&emsp;&emsp;%3Cgeoref%3E&emsp;Geomatics.;&emsp;&emsp;%3Cpgram%3E&emsp;+Photogrammetry.;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_;_)
 <br>
 <p><img src="https://user-images.githubusercontent.com/22569954/235297834-b86c730f-c834-4ddc-9989-9d451d69b331.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flickering_cursor.gif" width=2% height=2%></p>
 
@@ -47,6 +47,22 @@
 
 </div>
 
+___
+
+<div align="center">
+
+|  |  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|--|
+|♜|♞|♝|♛|♚|♝|♞|♜|
+|♟|♟|♟|♟|♟|♟|♟|♟|
+|　|　|　|　|　|　|　|　|
+|　|　|　|　|　|　|　|　|
+|　|　|　|　|♙|　|　|　|
+|　|　|　|　|　|　|　|　|
+|♙|♙|♙|♙|　|♙|♙|♙|
+|♖|♘|♗|♕|♔|♗|♘|♖|
+
+</div>
 
 <!-- ---------------------------------------------------------------- -->
 
